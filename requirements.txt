@@ -1,0 +1,7 @@
+- Usar semantic HTML
+- Accesibilidad
+- Clean code
+- Single responsabilities
+- Unit testing con coverage mínimo del 60%
+- Navegacion
+- Request a un API externo
