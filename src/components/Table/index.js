@@ -2,7 +2,7 @@ import React from "react";
 import Page from "./page";
 
 const Table = ({ bars }) => {
-  console.log(bars)
+  
   return (
     <div className="flex justify-around pt-20">
       <table className="table-fixed">
